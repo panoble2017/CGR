@@ -9,9 +9,16 @@
 
 // Copyright Peter A Noble January, 2018 Tucson Arizona
 
-// g++ make_CGR.cpp -o make_CGR
+// g++ make_CGR_new.cpp -o make_CGR
 
-// ./make_CGR Eya1_1.fna
+// ./make_CGR test.fna
+// ./make_CGR wierd_OP_mouse.fna
+
+// ./make_CGR sign_genes3.fna
+// ./make_CGR A_55_P2423586_Eya1_1.fna
+// ./make_CGR test.fna
+// ./make_CGR A_52_P212756_Tor1aip2_1.fna
+// ./make_CGR mouse_brain_for_CGR.txt
 
 using namespace std;
 
